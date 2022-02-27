@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Books printed for William Crook at the Green Dragon without Temple-Bar</title>
+            <author>Crook, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81053</idno>
+            <idno type="STC">Wing C7233A</idno>
+            <idno type="STC">ESTC R174338</idno>
+            <idno type="EEBO-CITATION">45097647</idno>
+            <idno type="OCLC">ocm 45097647</idno>
+            <idno type="VID">171251</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171251)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2569:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Books printed for William Crook at the Green Dragon without Temple-Bar</title>
+                  <author>Crook, William.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1678?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from p. [7].</note>
+                  <note>Wing suggests date: 1680.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crook, William --  Catalogs.</term>
+               <term>Catalogs, Booksellers --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:171251:1"/>
+            <pb facs="tcp:171251:1"/>
+            <head>Books Printed for <hi>William Crook</hi> at the <hi>Green Dragon</hi> without <hi>Temple-Bar.</hi>
+            </head>
+            <p n="1">1. <hi>GReek Teſtament,</hi> Printed by <hi>Jo. Red<g ref="char:EOLhyphen"/>mayn</hi> oct.</p>
+            <p n="2">2. <hi>The compleat Vineyard, or the moſt excellent way for the planting of Vines,</hi> by <hi>Wil<g ref="char:EOLhyphen"/>liam Hughes</hi> in oct.</p>
+            <p n="3">3. <hi>Praxis Curiae Admiralitatis Angliae, Authore</hi> F. Clerk, oct.</p>
+            <p n="4">4. <hi>A deſcription of Candia</hi> in its Ancient and mo<g ref="char:EOLhyphen"/>dern eſtate, with an account of the ſiege and ſurren<g ref="char:EOLhyphen"/>der to the Turks, oct. Price 1<hi>s.</hi>
+            </p>
+            <p n="5">5. <hi>The deaf and dumb mans diſcourſe,</hi> being a diſ<g ref="char:EOLhyphen"/>courſe of ſuch as are born deaf and dumb, ſhewing how they expreſs the ſentiments of their minds, toge<g ref="char:EOLhyphen"/>ther with an account of the rationality of Beaſts, par<g ref="char:EOLhyphen"/>ticularly of the Elephant, oct. Price 1<hi>s.</hi>
+            </p>
+            <p n="6">6. <hi>Des Cartes</hi> the Philoſopher's life, oct. Price 1<hi>s.</hi>
+            </p>
+            <pb facs="tcp:171251:2" rendition="simple:additions"/>
+            <p n="7">7. <hi>Gees,</hi> ſteps to the Temple, Twenty fours.</p>
+            <p n="8">8. <hi>The Chriſtian pattern or imitation of Chriſt.</hi> written by <hi>Thomas</hi> of <hi>Kempis,</hi> Twenty fours.</p>
+            <p n="9">9. An anſwer to Mr. <hi>Furguſon's</hi> doctrine about <hi>Chriſt's Juſtification and Sanctification,</hi> together with an account of the extent of Chriſt's death, by <hi>J. Knowls,</hi> oct. Price 1<hi>s.</hi> 6<hi>d.</hi>
+            </p>
+            <p n="10">10. <hi>De Mirabilibus Pecci, Carmen, Autho.</hi> Tho. Hobs, quar.</p>
+            <p n="11">11. Sir <hi>Henry Blunt's</hi> Voyage into the <hi>Levant,</hi> Twelves. Price 1<hi>s.</hi>
+            </p>
+            <p n="12">12. <hi>Compleat meaſurer,</hi> or a new and exact way of Meaſuration by <hi>Tho. Hammond</hi> oct. Price 1<hi>s.</hi>
+            </p>
+            <p n="13">13. Mr. <hi>Hobs. Roſetum Geometricum,</hi> quar. Pr 3<hi>s.</hi>
+            </p>
+            <p n="14">14. Carpenters Rule made eaſie by <hi>Mr. Darling,</hi> twelves.</p>
+            <p n="15">15. <hi>The flower-Garden</hi> inlarged, ſhewing how to order and increaſe all manner of flowers, whether by layers, ſlips, off-ſets, cuttings, ſeeds, <hi>&amp;c.</hi> alſo how to draw a Horizontal Dyal in a Garden, with a Treatiſe of all Roots, Plants, Trees, Shrubs, Fruits, Herbs, <hi>&amp;c</hi> in the Kings plantations, twelves, by <hi>William Hughes.</hi>
+            </p>
+            <p n="16">16. The Elegant Poems of Dr. <hi>Richard Corbet,</hi> Dean of Chriſt Church in <hi>Oxford</hi> after Bp. of <hi>Nor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h,</hi> twelves.</p>
+            <p n="17">17. <hi>Boccalin's</hi> advirtiſements from <hi>Parnaſſus,</hi> Fol.</p>
+            <pb facs="tcp:171251:2" rendition="simple:additions"/>
+            <p n="18">18. <hi>Ogilby's Virgil,</hi> Engliſh with Notes and Cuts, oct.</p>
+            <p n="19">19. <hi>Brownlow's</hi> reports compleat in 2 parts, quar.</p>
+            <p n="20">20. <hi>The Court of Curioſity,</hi> being a very delightful and pleaſant <hi>fortune-book,</hi> an excellent and learned Treatiſe of Dreams, and an ingenious diſcourſe of <hi>Phyſiognomy:</hi> written in French, now Engliſhed the ſecond edition, improved, twelves, Price 2<hi>s.</hi>
+            </p>
+            <p n="21">21. <hi>Lux mathematica,</hi> Author <hi>Tho. Hobs.</hi>
+            </p>
+            <p n="22">22. <hi>Principia &amp; problemata aliquot Geometrica, ante deſparata,</hi> &amp;c. Author <hi>Tho. Hobs.</hi> quar.</p>
+            <p n="23">23. <hi>The American Phyſitian</hi> treating of all the flowers, roots, Plants, and Herbs that grow in his Majeſties <hi>American</hi> plantations by <hi>William Hughes,</hi> twelves.</p>
+            <p n="24">24. <hi>Lucius Florus</hi> tranſlated into Engliſh, oct.</p>
+            <p n="25">25. <hi>Caeſar's commentaries</hi> Engliſhed by Mr. <hi>Ed<g ref="char:EOLhyphen"/>monds</hi> with notes, fol.</p>
+            <p n="26">26. <hi>Wingates Clerk's</hi> tutor in writing and Arith<g ref="char:EOLhyphen"/>metick, oct.</p>
+            <p n="27">27. <hi>The Judges Reſolution</hi> concerning the ſeveral ſtatutes of Bankrupts, oct.</p>
+            <p n="28">28. <hi>Mary Magdalens</hi> tears wip'd off.</p>
+            <p n="29">29. Biſhop <hi>Sparrow's Rationale</hi> on the Common Prayer, twelves.</p>
+            <p n="30">30. <hi>Clarkes</hi> Lives of the fathers, School-men, Ancient and Modern Divines, fol.</p>
+            <pb facs="tcp:171251:3"/>
+            <p n="31">31 <hi>Grotins</hi>'s <hi>Catechiſm,</hi> Greek, Latine and Engliſh, with a praxis to the Greek, oct.</p>
+            <p n="32">32. <hi>The great Law of Nature</hi> about ſelf-preſervati<g ref="char:EOLhyphen"/>on vindicated againſt the abuſes of Mr. <hi>Hobs</hi> in his <hi>Leviathan,</hi> twelves.</p>
+            <p n="33">33. <hi>Calliopes Cabbinet</hi> opened, wherein all Gentle<g ref="char:EOLhyphen"/>men may be informed how to order themſelves for all funerals, feaſts, and Heroick meetings, to know all degrees of Honour, and how all perſons of all de<g ref="char:EOLhyphen"/>grees are to take place, with a dictionary of all the Terms in <hi>Heraldry.</hi>
+            </p>
+            <p n="34">34. A new collection of Songs and Poems, writ<g ref="char:EOLhyphen"/>ten by ſeveral Wits now living, oct.</p>
+            <p n="35">35. <hi>A diſcourſe of the Dukedome of Modena,</hi> the Native Country of her Royal Highneſs the Dutcheſs of <hi>York,</hi> quar.</p>
+            <p n="36">36. <hi>Brevis Demonſtratio,</hi> proving the truth and excellency of the Chriſtian Religion by Reaſon, re<g ref="char:EOLhyphen"/>commendeded to all Rational men by ſeveral Emi<g ref="char:EOLhyphen"/>nent Divines in <hi>London.</hi> twelves.</p>
+            <p n="37">37. <hi>Walton's Lives,</hi> of four Eminent men, oct.</p>
+            <p n="38">38. <hi>Nomenclatura,</hi> Greek, Latine, and Engliſh oct.</p>
+            <p n="39">39. <hi>The Apopthegmes,</hi> or witty ſentences of Sir <hi>Francis Bacon,</hi> Lord Chancellor of <hi>England,</hi> twelves.</p>
+            <p n="40">40. <hi>Partheniſſa,</hi> a Romance written by the Earl of <hi>Orrorey,</hi> fol.</p>
+            <p n="41">41. <hi>Caſſandra,</hi> a Romance, fol.</p>
+            <pb facs="tcp:171251:3"/>
+            <p n="42">42. <hi>The Primitive inſtitution,</hi> or a ſeaſonable diſ<g ref="char:EOLhyphen"/>courſe of Catechizing, wherein is ſhewed the anti<g ref="char:EOLhyphen"/>quity, benefits and neceſſity thereof, together with its ſuitableneſs to heal the preſent diſtempers of the Church by <hi>Lancellot Addiſon,</hi> D. D.</p>
+            <p n="43">43. <hi>The preſent State of the Jewes,</hi> wherein is con<g ref="char:EOLhyphen"/>tained an exact account of all their preſent cuſtomes, ſecular and religious, to which is annexed a diſcourſe of the <hi>Miſna, Talmud,</hi> and <hi>Gemara,</hi> by <hi>Lancellot Ad<g ref="char:EOLhyphen"/>diſon,</hi> D. D. twelves.</p>
+            <p n="44">44. <hi>Homer's works,</hi> tranſlated out of Greek into Engliſh by <hi>Tho. Hobs,</hi> twelves.</p>
+            <p n="45">45. <hi>The Golden Rule</hi> of Arithmetick made eaſie oct.</p>
+            <p n="46">46. <hi>A ſupplement</hi> or third Volum of Mr. <hi>Hobs</hi> his works. quar.</p>
+            <p n="47">47. Seventy eight Characters, oct.</p>
+            <p n="48">48. The Grounds of Soveraignty and Greatneſs, quar.</p>
+            <p n="49">49. <hi>Camera Regis,</hi> or a ſhort view of <hi>London</hi> containing the antiquity, Frame, Walls, River, Bridg Gates, Tower, Cathedral, Officers, Courts, Cu<g ref="char:EOLhyphen"/>ſtomes, Franchiſes, <hi>&amp;c.</hi> of the ſaid City, oct.</p>
+            <p n="50">50. A Sermon preached at the Funeral of a man drowned in a pit. oct.</p>
+            <p n="51">51. Mr. <hi>Howel's</hi> Viſitation ſermon, quar.</p>
+            <p n="52">52. <hi>The Hiſtorians Guide</hi> in two parts, containing the moſt remarkable paſſages done in <hi>England</hi> for ſeventy ſix years laſt paſt, oct.</p>
+            <pb facs="tcp:171251:4"/>
+            <p n="53">53. The circumciſion of the Great Turks ſon, and the Ceremony of the Marriage of his Daughter.</p>
+            <p n="54">54. Naked truth or the intrigues of amorous Fops, oct.</p>
+            <p n="55">55. <hi>Kitchins Court Leet and Court Baron,</hi> ſhewing the power, nature, practice and juriſdiction of theſe and other Courts, oct.</p>
+            <p n="56">56. <hi>Scarron's Comical</hi> Romance, or a facetious Hi<g ref="char:EOLhyphen"/>ſtory of a Company of Stage Players, interwoven with divers choice Novels, rare adventures, and a<g ref="char:EOLhyphen"/>mourous intrigues, written in French by the famous and witty Monſieur <hi>Scarron</hi> now done into Engliſh, by <hi>J B.</hi> Gent, fol.</p>
+            <p n="57">57. A Letter about liberty and neceſſity, written by <hi>Tho. Hobs</hi> of <hi>Malmsbury,</hi> with obſervations upon it, by Dr. <hi>Benjamin Laney</hi> late Biſhop of <hi>Ely,</hi> twelves.</p>
+            <p n="58">58. <hi>A Modeſt Plea</hi> for the Clergy of the Church of <hi>England,</hi> wherein is briefly conſidered the Original antiquity, neceſſity, together with the occaſions they are ſo ſlighted and contemned, oct.</p>
+            <p n="59">59. <hi>Aſtrological Judgement,</hi> and practice of phy<g ref="char:EOLhyphen"/>ſick deduced from the poſition of the Heavens, at the decumbiture of the ſick perſon, being the thirty years practice of Mr. <hi>Richard Saunders,</hi> oct.</p>
+            <p n="6">6. <hi>A treatiſe of Wool and Cattle,</hi> ſhewing how far they raiſe or abate value of lands in <hi>England</hi> quar.</p>
+            <p n="61">61. A diſcourſe whether <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may be lawful to take
+<pb facs="tcp:171251:4"/>Uſe for mony; written by Sir <hi>Robert Filmer,</hi> and pub<g ref="char:EOLhyphen"/>liſhed by Sir <hi>Roger Twiſden,</hi> twelves, printed this year, 1678.</p>
+            <div type="part">
+               <head>PLAYES.</head>
+               <p n="1">1. <hi>The white Devil</hi> or <hi>Vittoria Corombona.</hi>
+               </p>
+               <p n="2">2. <hi>The old Troop</hi> or Monſieur <hi>Raggou.</hi>
+               </p>
+               <p n="3">3. <hi>Catalines conſpiracy.</hi>
+               </p>
+               <p n="4">4. <hi>Amorous gallant</hi> or <hi>Love and faſhion.</hi>
+               </p>
+               <p n="5">5. <hi>The mock duelliſt</hi> or <hi>French Vallet.</hi>
+               </p>
+               <p n="6">6. <hi>Wrangling Lovers</hi> or the <hi>Inviſible Miſtris.</hi>
+               </p>
+               <p n="7">7. <hi>Tom Eſſence</hi> or the <hi>Modiſh Wife,</hi> quar.</p>
+               <p n="8">8. <hi>French Conjurer.</hi>
+               </p>
+               <p n="9">9. <hi>Wits led by the Noſe.</hi>
+               </p>
+               <p n="10">10. <hi>The Rival Kings.</hi>
+               </p>
+               <p n="11">11. <hi>The conſtant Nymph or Rambling ſhepherd.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>An Advertiſement.</head>
+               <p>There is Printing an excellent Peice of <hi>Natural Philoſophy</hi> in Engliſh, never before Printed, written by <hi>Tho. Hobs</hi> of <hi>Malmsbury,</hi> who is yet living.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
